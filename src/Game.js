@@ -66,7 +66,7 @@ const Game = () => {
         />
       </div>
       <div>
-        <h2>Round(1-6 stages) {round}</h2>
+        <h2>Total 6 Rounds.Round {round}</h2>
         <div>
           <h3>{player1Name}</h3>
           {choices.map((choice) => (
